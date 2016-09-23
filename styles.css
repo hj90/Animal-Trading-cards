@@ -1,6 +1,6 @@
 /* add your CSS here */
 
-.card{
+.card {
 	width: 300px;
 	padding: 10px;
 	border: solid 1px #dbe2e8;
@@ -8,11 +8,11 @@
 	border-radius: 5px;
 }
 
-.header{
+.header {
 	border-style: hidden;
 }
 
-.image{
+.image {
 	border-style: hidden;
 	max-width: 100%;
 }
@@ -23,12 +23,11 @@
 	border-radius: 5px;
 }
 
-.fact{
+.fact {
  	font-style: italic;
 }
 
-.list{
-
+.list {
 	list-style: none;
 	padding: 0px;
 }
@@ -36,17 +35,3 @@
 .label {
 	font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
