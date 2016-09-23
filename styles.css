@@ -1,0 +1,52 @@
+/* add your CSS here */
+
+.card{
+	width: 300px;
+	padding: 10px;
+	border: solid 1px #dbe2e8;
+	box-shadow: 10px 10px 10px grey;
+	border-radius: 5px;
+}
+
+.header{
+	border-style: hidden;
+}
+
+.image{
+	border-style: hidden;
+	max-width: 100%;
+}
+
+.information {
+	border: solid 1px #dbe2e8;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.fact{
+ 	font-style: italic;
+}
+
+.list{
+
+	list-style: none;
+	padding: 0px;
+}
+
+.label {
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
